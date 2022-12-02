@@ -17,7 +17,7 @@ def gcd_rem_division(num1, num2):
         else:
             num2 %= num1
     return num1 or num2
-
+#tytyty
 # Генерируем два простых числа
 p, q = 729109895220382741151, 66907724605396681871
 p1 = GenNum(p)
